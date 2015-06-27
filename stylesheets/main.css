@@ -1,0 +1,27 @@
+form {
+    text-align: center;
+}
+
+input {
+    width: 340px;
+    height: 30px;
+}
+
+.item {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.text {
+    padding-bottom: 10px;
+}
+
+.help {
+    margin-top: 10px;
+    font-size: 9pt;
+}
+
+.order {
+    margin-top: 20px;
+}
