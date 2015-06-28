@@ -9,8 +9,8 @@ input {
 
 .item {
     display: block;
-    margin: 0 auto;
-    margin-top: 20px;
+    width: 340px;
+    float: left;
 }
 
 .text {
@@ -24,4 +24,15 @@ input {
 
 .order {
     margin-top: 20px;
+}
+
+.block {
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.separator {
+    margin-left: 108px;
 }
